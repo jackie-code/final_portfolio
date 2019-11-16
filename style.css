@@ -70,6 +70,10 @@
     margin-bottom: 30px;
   }
   
+  ol li {
+    list-style-type: none;
+  }
+
   ul li {
     border: 5px solid rgba(60, 253, 227, 0.3);
     width: 50px;
@@ -81,7 +85,7 @@
     transform: scale(2.05);
   }
 
-  i {
+  ul i {
     font-size: 1.2em;
     color: rgba(60, 253, 227, 0.3);
     margin-top: 7px;
@@ -168,13 +172,12 @@ footer {
 .heroExpand {
   margin-top: 5%;
   border: 1px solid black;
-  background-color:rgb(241, 241, 241);
+  background-color:rgba(241, 241, 241, .3);
   padding: 30px;
   width: 70%;
   height: 70%;
   margin-left: auto;
   margin-right: auto;
-  opacity: 0.7;
   position: relative;
   text-align: center;
   color: white;
