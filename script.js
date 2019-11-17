@@ -23,12 +23,14 @@ function eventListeners(){
         hidePage();
         showHeroExpand();
         $('header').hide();
+        $('footer').hide()
     });
 
     $('.heroExpand').on('click', '.x', function () {
         showPage();
         hideHeroExpand();
         $('header').show();
+        $('footer').show();
     })
 
     // here I want to hover over an item and make a larger image associated with that item appear and then dissappeaer on mouseoff
