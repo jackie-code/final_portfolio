@@ -6,6 +6,10 @@ a {
   color: inherit;
 }
 
+a:hover{
+  box-shadow: 0 0 50px 20px rgba(106, 255, 248, 0.2);
+}
+
   html {
     background-image: url("images/bg.jpg");
     
