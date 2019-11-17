@@ -41,6 +41,16 @@
     font-size: 1.7rem;
   }
 
+  h2 {
+    font-family: 'Alata', sans-serif;
+    font-family: 'Alatsi', sans-serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Julius Sans One', sans-serif;
+  }
+
   .profile img {
     padding: 10px;
     border-radius: 100%;
