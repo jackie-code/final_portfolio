@@ -191,8 +191,8 @@ a {
   .item:hover {
     transform: scale(1.05);
     transition: .2s;
-    box-shadow: 0 0 50px 20px rgba(241, 241, 241, .13);
-    background-color: rgba(241, 241, 241, .13);
+    box-shadow: 0 0 50px 20px rgba(2, 2, 2, 0.3);
+    background-color: rgba(2, 2, 2, 0.3);
   }
 
 footer {
