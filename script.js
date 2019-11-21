@@ -1,5 +1,4 @@
 
-
 function showPage() {
     $('.stuff').show();
 }
